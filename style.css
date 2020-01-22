@@ -3,6 +3,10 @@ body {
   padding: 0;
 }
 
+section>h6{
+  display: none;
+}
+
 .contents {
   background-position: 50% 100%;
   background-repeat: no-repeat;
