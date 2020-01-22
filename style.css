@@ -98,6 +98,17 @@ body {
   color: white;
 }
 
+.cta>a {
+  display: inline-block;
+  margin: 0 18px 25px;
+  height: 29px;
+}
+
+.wrapper a {
+  text-decoration: none;
+  color: #08c;
+}
+
 .navbar-btn>li>a {
   width: 100%;
 }
@@ -134,7 +145,6 @@ body {
   text-indent: -9999px;
   width: 100%;
   -webkit-font-smoothing: antialiased;
-  background-position-x: 50%;
 }
 
 .logo {
@@ -218,12 +228,6 @@ body {
   overflow: hidden;
 }
 
-.cta>a {
-  display: inline-block;
-  margin: 0 18px 25px;
-  height: 29px;
-}
-
 .cta>a:hover {
   margin-top: -32px;
 }
@@ -255,11 +259,6 @@ body {
   margin: 0 auto;
   width: 1220px;
   padding: 1em 0 2.6em;
-}
-
-.wrapper a {
-  text-decoration: none;
-  color: #08c;
 }
 
 .wrapper p {
