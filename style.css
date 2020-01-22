@@ -304,11 +304,10 @@ body {
   float: left;
 }
 
-.wrapper .clear-left{
+.wrapper .clear-left {
   width: fit-content;
 }
 
-.wrapper .piped{
+.wrapper .piped {
   float: left;
 }
-
