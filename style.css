@@ -10,7 +10,7 @@ body {
   min-height: 538px;
   margin: 0 auto;
   display: grid;
-  grid-template-areas: 'mc mc mc mc' 's1 s2 s3 s4';
+  grid-template-areas: 'mc mc mc mc''s1 s2 s3 s4';
 }
 
 .main-content {
@@ -271,7 +271,6 @@ body {
   color: #6e6e6e;
   font-size: 0.8334em;
   line-height: 1.2;
-
 }
 
 .wrapper ul {
